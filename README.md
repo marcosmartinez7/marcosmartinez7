@@ -2,9 +2,8 @@
 
 
 
-- 😄 Im a Software Engineer with 5 years on the industry
+- 😄 Im a Software Engineer with 5 years on the industry, focused mainly on research and leadership
 - 🌱 Currently working on [RIF Lumino](https://developers.rsk.co/rif/lumino/) and other Blockchain Related projects.
-- :purple_heart: Research & Techical Lead
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcos-mart%C3%ADnez/) / [Twitter](https://twitter.com/mimc__) / mmartinezciompi@gmail.com
 
 
