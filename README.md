@@ -10,7 +10,7 @@
  
  :soccer:  Defensor Sporting Club huge fan :purple_heart:
  
- :clubs: 🃏 Frustrated online poker pro wannabe
+ :clubs: 🃏 Frustrated online poker pro
  
  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcos-mart%C3%ADnez/) / [Twitter](https://twitter.com/mimc__) / mmartinezciompi@gmail.com
 
