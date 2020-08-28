@@ -2,7 +2,8 @@
 
 
 
- 😄 I'm a Software Engineer with 5 years in the industry, focused mainly on research and leadership.
+
+ 😄 Software Engineer with 5 years in the industry, focused mainly on research and leadership.
  
  🌱 Currently working on [RIF Lumino](https://developers.rsk.co/rif/lumino/) and other blockchain related projects.
  
