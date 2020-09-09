@@ -7,7 +7,7 @@
  
  :musical_note: 90% of the time I listen to metal, the remaining 10% ranges from classic rock and blues to argentinian trap 
  
- :soccer: Defensor Sporting Club huge  
+ :soccer: Defensor Sporting Club huge fan
  
  :clubs: Frustrated online poker player 
  
