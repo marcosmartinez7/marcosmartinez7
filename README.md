@@ -1,18 +1,15 @@
-### I'm Marcos Martinez 🇺🇾
+I'm a Software Engineer with 5 years in the industry
+
+Currently working on RSK payments scalabilty (RIF Lumino) and other blockchain related projects.
+
+What I like the most and am best at:
+
+- researching and building PoCs of emerging tech.
+- architecture design
+- distributed systems
+- team leadership (technical and management)
 
 
+Metalhead and eternal frustrated online poker player
 
-
- Software Engineer with 5 years in the industry, focused mainly on research and leadership. Currently working on [RIF Lumino](https://developers.rsk.co/rif/lumino/) and other blockchain related projects.
- 
- :musical_note: 90% of the time I listen to metal, the remaining 10% ranges from classic rock and blues to argentinian trap 
- 
- :soccer: Defensor Sporting Club huge fan
- 
- :clubs: Frustrated online poker player 
- 
- Contact: [Linkedin](https://www.linkedin.com/in/marcos-mart%C3%ADnez/) / [Twitter](https://twitter.com/mimc__) / mmartinezciompi@gmail.com
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcosmartinez7)](https://github.com/anuraghazra/github-readme-stats)
-
+https://twitter.com/mimc__
