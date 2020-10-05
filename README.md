@@ -8,9 +8,7 @@ What I like the most and am best at:
 - architecture design
 - team leadership (technical and management)
 
-what im learning: distributed systems
-
-
-
 Metalhead and eternal frustrated online poker player
+
+@mimc__
 
