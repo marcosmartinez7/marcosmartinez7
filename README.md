@@ -6,10 +6,11 @@ What I like the most and am best at:
 
 - researching and building PoCs of emerging tech.
 - architecture design
-- distributed systems
 - team leadership (technical and management)
+
+what im learning: distributed systems
+
 
 
 Metalhead and eternal frustrated online poker player
 
-https://twitter.com/mimc__
