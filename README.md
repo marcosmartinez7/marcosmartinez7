@@ -1,6 +1,4 @@
-I'm a Software Engineer with 5 years in the industry
-
-Currently working on RSK payments scalabilty (RIF Lumino) and other blockchain related projects.
+Currently working on RSK payments scalabilty (https://developers.rsk.co/rif/lumino/).
 
 What I like the most:
 
