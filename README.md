@@ -2,7 +2,7 @@ Currently working on RSK payments scalabilty (https://developers.rsk.co/rif/lumi
 
 What I like the most:
 
-- researching and building PoCs of emerging tech.
+- researching and building PoCs
 - architecture design
 - team leadership 
 
