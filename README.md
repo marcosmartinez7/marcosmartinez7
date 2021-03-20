@@ -1,4 +1,4 @@
-Currently working on Inbound Shipping Unit @MercadoLibre
+Currently working on Inbound Shipping @MercadoLibre
 
 Software engineer with experience in full stack development, blockchain and small teams leadership
 
