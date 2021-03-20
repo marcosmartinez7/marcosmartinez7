@@ -15,9 +15,8 @@ Interests and skills
 - Team player
 - Decision making and prioritization
 
-@mimc__
 
 Metalhead and eternal frustrated online poker player
 
-@mimc__
+tw: @mimc__
 
