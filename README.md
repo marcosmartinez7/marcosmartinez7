@@ -1,10 +1,21 @@
-Currently working on RSK payments scalabilty (https://developers.rsk.co/rif/lumino/).
+Currently working on Inbound Shipping Unit @MercadoLibre
 
-What I like the most:
+Software engineer with experience in full stack development, blockchain and small teams leadership
 
-- researching and building PoCs
-- architecture design
-- team leadership 
+Interests and skills
+
+- Team leadership & management
+- Blockchain & Cryptocurrencies
+- Distributed systems
+- Research & Proof of concepts
+- Architecture design
+- Mentor and be mentored
+- Problem solving
+- Context switching
+- Team player
+- Decision making and prioritization
+
+@mimc__
 
 Metalhead and eternal frustrated online poker player
 
