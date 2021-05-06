@@ -17,7 +17,7 @@ Interests and skills :rocket:
 
 
 
-[Twitter](@mimc__)
+[Twitter](https://twitter.com/@mimc__)
 
 [Linkedin](https://www.linkedin.com/in/marcos-mart%C3%ADnez/)
 
