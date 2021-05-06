@@ -1,6 +1,8 @@
-Currently working on Inbound Shipping @MercadoLibre
 
-Software engineer with experience in full stack development, blockchain and small teams leadership
+Software engineer with experience in full stack development, blockchain and small teams leadership.
+
+Currently working on: Inbound Shipping @MercadoLibre
+
 
 Interests and skills
 
