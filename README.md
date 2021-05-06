@@ -15,7 +15,7 @@
 - Team player
 
 
-:metal: :spades: 	metalhead  and eternal frustrated online poker player
+:metal:  	metalhead  and eternal frustrated online poker player :spades:
 
 @mimc__
 
