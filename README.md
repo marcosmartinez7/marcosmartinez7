@@ -16,9 +16,12 @@ Interests and skills :rocket:
 - Open source
 
 
-:metal:   :spades: :soccer: :bike:
 
-@mimc__
+[Twitter](@mimc__)
 
-:uruguay:
+[Linkedin](https://www.linkedin.com/in/marcos-mart%C3%ADnez/)
+
+
+:uruguay: 
+
  
