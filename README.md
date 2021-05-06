@@ -13,6 +13,7 @@ Software engineer with experience in full stack development, blockchain and smal
 - Mentor and be mentored
 - Problem solving
 - Team player
+- Open source
 
 
 :metal:  	metalhead  and eternal frustrated online poker player :spades:
