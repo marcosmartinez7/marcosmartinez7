@@ -1,4 +1,4 @@
-:computer:  Software engineer with experience in full stack development, blockchain and small teams leadership.
+Software engineer with experience in full stack development, blockchain and small teams leadership.
  
  
 :package:  Inbound Shipping @MercadoLibre
