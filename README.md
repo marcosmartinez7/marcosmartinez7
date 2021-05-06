@@ -1,12 +1,10 @@
-
-
-
 :computer:  Software engineer with experience in full stack development, blockchain and small teams leadership.
+ 
+ 
+:package:  Inbound Shipping @MercadoLibre
 
-:package:  Currently working on: Inbound Shipping @MercadoLibre
 
-
-Interests and skills
+:rocket: Interests and skills
 
 - Team leadership & management
 - Blockchain & Cryptocurrencies
@@ -19,10 +17,7 @@ Interests and skills
 
 :metal: :spades: 	metalhead  and eternal frustrated online poker player
 
-tw: @mimc__
-
-.
-.
-.
+@mimc__
 
 :uruguay:
+ 
