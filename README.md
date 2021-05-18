@@ -9,7 +9,7 @@
 
 
 - 6 years of experience in the industry
-- Worked on different roles, from full-stack & mobile development to technical leadership 
+- Worked on different roles, from full-stack & mobile development to technical leadership & sprint planification
 - Open source projects
 - 3 years of Blockchain work experience
 - Metalhead 🤘, 🚴‍♂️ & ⚽ addict 
