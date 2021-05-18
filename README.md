@@ -1,27 +1,16 @@
-Software engineer with experience in full stack development, blockchain and small teams leadership.
- 
- 
-Inbound Shipping @MercadoLibre :package: 
+
+# Hello, Im Marcos :
+
+[![website badge](https://img.shields.io/badge/website-marcosmartinez.io-black?style=flat-square)](https://marcosmartinez.io)
+[![linkedin badge](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-martínez/)
+[![twitter badge](https://img.shields.io/badge/twitter-mimc__blue?style=flat-square&logo=twitter)](https://twitter.com/mimc__)
+[![stackoverflow badge](https://img.shields.io/badge/stackoverflow-red?style=flat-square&logo=stackoverflow)](https://es.stackoverflow.com/users/4163/marcos-martínez)
 
 
-Interests and skills :rocket:
+### Software Engineer
 
-- Team leadership & management
-- Blockchain & Cryptocurrencies
-- Research & Proof of concepts
-- Architecture design
-- Mentor and be mentored
-- Problem solving
-- Team player
-- Open source
-
-
-
-[Twitter](https://twitter.com/@mimc__)
-
-[Linkedin](https://www.linkedin.com/in/marcos-mart%C3%ADnez/)
-
+- 6 years of experience in the industry
+- Worked on different roles, from full-stack & mobile development to technical leadership 
+- Open source Blockchain projects
 
 :uruguay: 
-
- 
