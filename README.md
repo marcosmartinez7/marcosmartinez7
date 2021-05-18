@@ -12,6 +12,7 @@
 - 6 years of experience in the industry
 - Worked on different roles, from full-stack & mobile development to technical leadership 
 - Open source Blockchain projects
+- Metalhead 🤘, 🚴‍♂️ & ⚽ addict 
 
 
 :uruguay: 
