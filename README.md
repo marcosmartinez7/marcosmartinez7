@@ -11,7 +11,7 @@
 - 6 years of experience in the industry
 - Worked on different roles, from full-stack to technical leadership & planification
 - Open source projects
-- 3 years of Blockchain work experience
+- 3 years of Blockchain work experience (Ethereum & RSK)
 - Metalhead 🤘, 🚴‍♂️ & ⚽ addict 
 
 
