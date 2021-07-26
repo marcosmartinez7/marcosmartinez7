@@ -10,7 +10,7 @@
 
 - Worked on different roles, from full-stack to technical leadership & planification
 - Open source projects & research
-- 3 years of Blockchain work experience (Ethereum & RSK)
+- Blockchain work experience (Ethereum & RSK)
 - Metalhead 🤘, 🚴‍♂️ & ⚽ addict 
 
 
