@@ -8,4 +8,4 @@
 
 
 
-:uruguay: 
+:uruguay: 🤘 ₿
