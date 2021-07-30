@@ -8,10 +8,4 @@
 
 
 
-- Worked on different roles, from full-stack to technical leadership & planification
-- Open source projects & research
-- Blockchain work experience (Ethereum & RSK)
-- Metalhead 🤘, 🚴‍♂️ & ⚽ addict 
-
-
 :uruguay: 
